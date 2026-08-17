@@ -1,4 +1,4 @@
-# https-github.com-navnit-grb-fake-news-detection-ml
+
 # Fake News Detection Using Machine Learning
 
 A beginner-friendly machine learning project that classifies news as **Fake** or **Real** using TF-IDF text features and Logistic Regression.
